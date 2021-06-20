@@ -2,7 +2,7 @@
     "name": "limbo/container",
     "description": "Simple psr/container implementation for humans.",
     "keywords": ["psr-11", "container", "di", "dependency", "injection"],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "license": "GPL-3.0-only",
     "authors": [
         {
