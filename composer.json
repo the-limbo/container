@@ -1,0 +1,26 @@
+{
+    "name": "limbo/container",
+    "description": "Simple psr/container implementation for humans.",
+    "keywords": ["psr-11", "container", "di", "dependency", "injection"],
+    "minimum-stability": "dev",
+    "license": "GPL-3.0-only",
+    "authors": [
+        {
+            "name": "dr0n1k",
+            "email": "x.dronov@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Limbo\\Container\\": ""
+        }
+    },
+    "require": {
+        "php": "^7.4",
+        "psr/container": "^2.0.1"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "sort-packages": true
+    }
+}
