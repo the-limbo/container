@@ -1,8 +1,8 @@
 # Getting started with Limbo/Container
-[![Latest Stable Version](https://poser.pugx.org/limbo/container/v/stable)](https://packagist.org/packages/limbo/container)
-[![Latest Unstable Version](https://poser.pugx.org/limbo/container/v/unstable)](https://packagist.org/packages/limbo/container)
-[![License](https://poser.pugx.org/limbo/container/license)](https://packagist.org/packages/limbo/container)
-[![Downloads](https://poser.pugx.org/limbo/container/downloads)](https://packagist.org/packages/limbo/container)
+[![Latest Stable Version](http://poser.pugx.org/limbo/container/v)](https://packagist.org/packages/limbo/container)
+[![Latest Unstable Version](http://poser.pugx.org/limbo/container/v/unstable)](https://packagist.org/packages/limbo/container)
+[![License](http://poser.pugx.org/limbo/container/license)](https://packagist.org/packages/limbo/container)
+[![Total Downloads](http://poser.pugx.org/limbo/container/downloads)](https://packagist.org/packages/limbo/container)
 
 [psr/container](https://www.php-fig.org/psr/psr-11/) implementation for humans
 
